@@ -12,5 +12,8 @@ As stated above, the main purpose is to provide simple example.
 
 ## Deployment
 
-This is a simple web projec, deployment can be on any web server.
+This is a simple web projec, deployment can be on any web server. deployment can be done either automatically or manually.
+
 ## How to Contribute
+
+Anyone can be contributable.
