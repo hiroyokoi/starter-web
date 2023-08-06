@@ -17,3 +17,7 @@ This is a simple web projec, deployment can be on any web server. deployment can
 ## How to Contribute
 
 Anyone can be contributable.
+
+## Copyright
+
+2014 copyright
