@@ -21,4 +21,4 @@ Please fork this repository and then issue Pull Requests.
 
 ## Copyright
 
-2014 copyright
+2014 copyright. All right reserved.
